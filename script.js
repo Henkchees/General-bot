@@ -65,7 +65,7 @@ const themeSettings = {
 const DEFAULT_SETTINGS = {
     botName: 'NextGen',
     botTagline: 'A multipurpose Discord bot template.',
-    botDescription: 'NovaBot blends moderation, engagement, and automation into a single easy-to-manage package.',
+    botDescription: 'NextGen blends moderation, engagement, and automation into a single easy-to-manage package.',
     theme: 'purple',
     inviteLink: '#',
     supportServer: '#',
