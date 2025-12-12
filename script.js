@@ -63,7 +63,7 @@ const themeSettings = {
 };
 
 const DEFAULT_SETTINGS = {
-    botName: 'NovaBot',
+    botName: 'NextGen',
     botTagline: 'A multipurpose Discord bot template.',
     botDescription: 'NovaBot blends moderation, engagement, and automation into a single easy-to-manage package.',
     theme: 'purple',
@@ -72,43 +72,13 @@ const DEFAULT_SETTINGS = {
     teamBackdrop: 'assets/team-backdrop.svg',
     teamMembers: [
         {
-            name: 'Aria Chen',
+            name: 'Zenex.gg',
             role: 'Lead Developer',
             bio: 'Architects {{botName}} and keeps every deployment reliable, fast, and secure.',
             avatar: 'assets/avatar-aria.svg',
             links: [
                 { icon: 'fa-brands fa-github', url: '#', label: 'Aria GitHub' },
                 { icon: 'fa-brands fa-x-twitter', url: '#', label: 'Aria Twitter' }
-            ]
-        },
-        {
-            name: 'Diego Marin',
-            role: 'Product Designer',
-            bio: 'Shapes intuitive control panels so every server owner can customise {{botName}} with confidence.',
-            avatar: 'assets/avatar-diego.svg',
-            links: [
-                { icon: 'fa-brands fa-dribbble', url: '#', label: 'Diego Dribbble' },
-                { icon: 'fa-brands fa-behance', url: '#', label: 'Diego Behance' }
-            ]
-        },
-        {
-            name: 'Sana Iqbal',
-            role: 'Community Lead',
-            bio: 'Builds partnerships and channels feedback to keep {{botName}} evolving alongside your members.',
-            avatar: 'assets/avatar-sana.svg',
-            links: [
-                { icon: 'fa-brands fa-discord', url: '#', label: 'Sana Discord' },
-                { icon: 'fa-brands fa-linkedin-in', url: '#', label: 'Sana LinkedIn' }
-            ]
-        },
-        {
-            name: 'Luca Romero',
-            role: 'AI Specialist',
-            bio: 'Develops adaptive automations that let {{botName}} answer questions and moderate conversations proactively.',
-            avatar: 'assets/avatar-luca.svg',
-            links: [
-                { icon: 'fa-brands fa-github', url: '#', label: 'Luca GitHub' },
-                { icon: 'fa-brands fa-medium', url: '#', label: 'Luca Medium' }
             ]
         }
     ]
