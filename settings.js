@@ -5,7 +5,7 @@ window.settings = {
     botTagline: 'NextGen is a advanced bot that allaws you to kick/ban/clear/time-out',
     botDescription: 'General Bot',
     theme: 'purple',
-    inviteLink: '#',
+    inviteLink: 'https://discord.com/oauth2/authorize?client_id=1444071063817289819&permissions=1689402032205046&integration_type=0&scope=bot',
     supportServer: 'https://discord.gg/fDkjPNN6sP',
     teamBackdrop: 'assets/team-backdrop.svg',
     teamMembers: [
